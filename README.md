@@ -12,19 +12,19 @@ What I Build:
 
 Selected Projects
 
-Bet App
+Bet App:
   Private football data pipeline and prediction workstation with browser-first extraction, canonical processing, validation, and prediction flows.
 
-Xora Backend
+Xora Backend:
   Cloudflare Workers backend powering authentication, feed APIs, messaging, notifications, media workflows, and platform security.
 
-Xora Web  
+Xora Web:  
   Responsive React/Vite social frontend with feed, reels, post detail, messaging, and mobile-friendly navigation.
 
-Xora Mobile 
+Xora Mobile: 
   Expo/React Native social app with feed, reels, profile, auth, and messaging experiences.
 
-Xora Stream App
+Xora Stream App:
   Lightweight Cloudflare-based media streaming and admin upload app.
 
  Stack
